@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lemberalla/dropmute-releases/main/logo.png" width="256" alt="Dropmute">
+  <img src="https://raw.githubusercontent.com/lemberalla/dropmute-releases/main/logo.png" width="128" alt="Dropmute">
 </p>
 
 <h1 align="center">Dropmute</h1>
