@@ -5,7 +5,7 @@
 <h1 align="center">Dropmute</h1>
 
 <p align="center">
-  <strong>The native macOS file converter. Drag, drop, convert.</strong><br>
+  <strong>The native macOS file converter. Drag & drop and convert.</strong><br>
   Images & documents — 100% local, nothing leaves your Mac.
 </p>
 
