@@ -5,8 +5,8 @@
 <h1 align="center">Dropmute</h1>
 
 <p align="center">
-  <strong>The native macOS file converter. Drag & drop and convert.</strong><br>
-  Images & documents — 100% local, nothing leaves your Mac.
+  <strong>The native macOS file converter. Drag, drop, convert.</strong><br>
+  Images, documents & videos — 100% local, nothing leaves your Mac.
 </p>
 
 <p align="center">
@@ -23,13 +23,14 @@ A lightweight, native macOS app that converts files instantly. Drop a file, pick
 
 ## Supported Formats
 
-| Images | Documents |
-|---|---|
-| PNG, JPEG, WebP, HEIC, HEIF, AVIF, TIFF, BMP, GIF, SVG, ICO | PDF, DOCX, Markdown, HTML, CSV, JSON, EPUB, RTF, TXT, XLSX |
+| Images | Documents | Videos |
+|---|---|---|
+| PNG, JPEG, WebP, HEIC, HEIF, AVIF, TIFF, BMP, GIF, SVG, ICO | PDF, DOCX, Markdown, HTML, CSV, JSON, EPUB, RTF, TXT, XLSX | MP4, MOV, WebM, MKV, AVI, GIF |
 
 ## Features
 
 - **Drag & drop** — drop files, folders, or paste from clipboard (Cmd+V)
+- **Video conversion** — MP4, MOV, WebM, MKV, AVI, GIF with native Apple color handling (Pro)
 - **Batch conversion** — drop a folder, pick formats per file type, convert all at once
 - **Format guide** — every format explained with best-for tags so you always pick the right one
 - **Favorites** — right-click any format to pin it for quick access
@@ -46,7 +47,8 @@ A lightweight, native macOS app that converts files instantly. Drop a file, pick
 
 | | Free | Pro ($9.99) |
 |---|---|---|
-| All formats | Yes | Yes |
+| Image & document formats | Yes | Yes |
+| Video conversion | — | Yes |
 | Daily conversions | 5 per day | Unlimited |
 | Batch / folder conversion | — | Yes |
 | Favorites | — | Yes |
